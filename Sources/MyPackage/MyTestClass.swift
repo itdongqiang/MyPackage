@@ -7,11 +7,11 @@
 
 import Foundation
 
-public class MyTestClass {
+open class MyTestClass {
     public init(number: Int = 0) {
         self.number = number
     }
-    public var number = 0
+    var number = 0
 }
 
 
