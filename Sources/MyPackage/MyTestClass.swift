@@ -8,6 +8,9 @@
 import Foundation
 
 public class MyTestClass {
+    public init(number: Int = 0) {
+        self.number = number
+    }
     var number = 0
 }
 
