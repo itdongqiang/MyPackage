@@ -7,7 +7,7 @@
 
 import Foundation
 
-class MyTestClass {
+public class MyTestClass {
     var number = 0
 }
 
